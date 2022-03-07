@@ -1,0 +1,22 @@
+# Jojo stand thing
+
+jojo = input("Please enter the name of your favorite jojo: ")
+stand = input("Please enter the name of your favorite stand: ")
+ability = input("Please enter the ability of your favorite stand: ")
+standcry = input("Please enter the cry of your favorite stand, one word only: ")
+
+print("Dio: You're next, ", jojo)
+print(jojo, ": Dio!")
+print("Dio: Oh? You're approaching me? Instead of running away you're coming right to me? Even though your grandfather joeseph, told you the secret of the world, like an exam student scrambling to finish the last problems on an exam until the last moments before the chime?")
+print(jojo, "I can't beat the shit out of you without getting closer!")
+print("Dio: Oh ho! Then come as close as you like!")
+print("Dio and ", jojo, " walk menacingly toward each other, prepared to beat the shit out of each other")
+print("Dio: MUDA MUDA MUDA MUDA MUDA MUDA MUDA")
+print(jojo, ": ", standcry, standcry, standcry, standcry, standcry, standcry, standcry)
+print("Dio: Too slow, too slow! The World is the ultimate Stand. Even without his power to ", ability, ", his speed and power far exceed that of your ", stand)
+print(jojo, ": so it's the same kind of stand as ", stand)
+print("Dio: NANI?!?, Za warudo! No one can enter my world of ", ability)
+print(jojo, ": bastard!", standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry, standcry)
+print("Dio: NANI? WRYYYYYYY! BUT KONO DIO DA!!!!!! *dies*")
+print(jojo, ": There was only one reason you lost Dio, and that's because you pissed me off!")
+print("Narrator: DIO...THE WORLD-----Utterly Defeated... Dead!")
